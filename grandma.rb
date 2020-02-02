@@ -9,7 +9,7 @@ def speak_to_grandma(phrase)
   end 
 end 
 
-puts speak_to_grandma
+
   
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
