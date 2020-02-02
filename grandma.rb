@@ -8,6 +8,8 @@ def speak_to_grandma(phrase)
     puts "HUH?! SPEAK UP, SONNY!"
   end 
 end 
+
+puts speak_to_grandma
   
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
