@@ -1,4 +1,5 @@
 # Write a speak_to_grandma method.
+var phrase
 def speak_to_grandma(phrase)
   if phrase == phrase.upcase 
     puts "No, NOT SINCE 1938!"
